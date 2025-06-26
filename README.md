@@ -1,4 +1,5 @@
 Titanic Survival Analysis – Exploratory Data Analysis (EDA)
+
 📁 Project Files
 EDA_Titanic_Survival_Analysis.py – Python script with the complete EDA workflow in a script format.
 
